@@ -1,0 +1,12 @@
+calc/.vs
+calc/Library
+calc/Logs
+calc/obj
+calc/Temp
+calc/Assets/TextMesh Pro
+calc/WebGLBuild
+calc/WindowsBuild
+calc/UpgradeLog.htm
+calc/calc.sln
+calc/Assembly-CSharp.csproj
+calc/.vsconfig
