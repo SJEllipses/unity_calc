@@ -3,7 +3,10 @@ calc/Library
 calc/Logs
 calc/obj
 calc/Temp
-calc/Assets/TextMesh Pro
+calc/Assets/TextMesh Pro/Documentation
+calc/Assets/TextMesh Pro/Documentation.meta
+calc/Assets/TextMesh Pro/Examples & Extras
+calc/Assets/TextMesh Pro/Examples & Extras.meta
 calc/WebGLBuild
 calc/WindowsBuild
 calc/UpgradeLog.htm
